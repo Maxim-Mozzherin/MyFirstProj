@@ -1,0 +1,17 @@
+C:\Git\Calc\Calc\bin\Debug\net7.0-windows\Calc.exe
+C:\Git\Calc\Calc\bin\Debug\net7.0-windows\Calc.deps.json
+C:\Git\Calc\Calc\bin\Debug\net7.0-windows\Calc.runtimeconfig.json
+C:\Git\Calc\Calc\bin\Debug\net7.0-windows\Calc.dll
+C:\Git\Calc\Calc\bin\Debug\net7.0-windows\Calc.pdb
+C:\Git\Calc\Calc\obj\Debug\net7.0-windows\Calc.csproj.AssemblyReference.cache
+C:\Git\Calc\Calc\obj\Debug\net7.0-windows\Calc.Form1.resources
+C:\Git\Calc\Calc\obj\Debug\net7.0-windows\Calc.csproj.GenerateResource.cache
+C:\Git\Calc\Calc\obj\Debug\net7.0-windows\Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Calc\Calc\obj\Debug\net7.0-windows\Calc.AssemblyInfoInputs.cache
+C:\Git\Calc\Calc\obj\Debug\net7.0-windows\Calc.AssemblyInfo.cs
+C:\Git\Calc\Calc\obj\Debug\net7.0-windows\Calc.csproj.CoreCompileInputs.cache
+C:\Git\Calc\Calc\obj\Debug\net7.0-windows\Calc.dll
+C:\Git\Calc\Calc\obj\Debug\net7.0-windows\refint\Calc.dll
+C:\Git\Calc\Calc\obj\Debug\net7.0-windows\Calc.pdb
+C:\Git\Calc\Calc\obj\Debug\net7.0-windows\Calc.genruntimeconfig.cache
+C:\Git\Calc\Calc\obj\Debug\net7.0-windows\ref\Calc.dll
